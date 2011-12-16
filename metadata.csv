@@ -1,0 +1,2 @@
+title, authorFirst, authorLast, category, desc, publisher, language, country, edition, filepath, coverpath, license, copyrightYear, keywords
+Test Book, Ryan, Bloom, 12, Test book for Batch upload tool, Ryan Bloom Publishing, EN, US, First, publishing.pdf, cover.pdf, Public Domain, 2011, "test keyword1, test keyword2"
